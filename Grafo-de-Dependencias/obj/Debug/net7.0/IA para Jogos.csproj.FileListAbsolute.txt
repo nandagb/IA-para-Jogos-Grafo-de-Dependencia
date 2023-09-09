@@ -1,0 +1,14 @@
+C:\Users\jason\IA para Jogos\obj\Debug\net7.0\IA para Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\IA para Jogos\obj\Debug\net7.0\IA para Jogos.AssemblyInfoInputs.cache
+C:\Users\jason\IA para Jogos\obj\Debug\net7.0\IA para Jogos.AssemblyInfo.cs
+C:\Users\jason\IA para Jogos\obj\Debug\net7.0\IA para Jogos.csproj.CoreCompileInputs.cache
+C:\Users\jason\IA para Jogos\bin\Debug\net7.0\IA para Jogos.exe
+C:\Users\jason\IA para Jogos\bin\Debug\net7.0\IA para Jogos.deps.json
+C:\Users\jason\IA para Jogos\bin\Debug\net7.0\IA para Jogos.runtimeconfig.json
+C:\Users\jason\IA para Jogos\bin\Debug\net7.0\IA para Jogos.dll
+C:\Users\jason\IA para Jogos\bin\Debug\net7.0\IA para Jogos.pdb
+C:\Users\jason\IA para Jogos\obj\Debug\net7.0\IA para Jogos.dll
+C:\Users\jason\IA para Jogos\obj\Debug\net7.0\refint\IA para Jogos.dll
+C:\Users\jason\IA para Jogos\obj\Debug\net7.0\IA para Jogos.pdb
+C:\Users\jason\IA para Jogos\obj\Debug\net7.0\IA para Jogos.genruntimeconfig.cache
+C:\Users\jason\IA para Jogos\obj\Debug\net7.0\ref\IA para Jogos.dll
