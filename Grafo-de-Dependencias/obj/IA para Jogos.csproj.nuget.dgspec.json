@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jason\\IA para Jogos\\IA para Jogos.csproj": {}
+    "C:\\Users\\jason\\IA para Jogos\\IA-para-Jogos-Grafo-de-Dependencia\\Grafo-de-Dependencias\\IA para Jogos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jason\\IA para Jogos\\IA para Jogos.csproj": {
+    "C:\\Users\\jason\\IA para Jogos\\IA-para-Jogos-Grafo-de-Dependencia\\Grafo-de-Dependencias\\IA para Jogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jason\\IA para Jogos\\IA para Jogos.csproj",
+        "projectUniqueName": "C:\\Users\\jason\\IA para Jogos\\IA-para-Jogos-Grafo-de-Dependencia\\Grafo-de-Dependencias\\IA para Jogos.csproj",
         "projectName": "IA para Jogos",
-        "projectPath": "C:\\Users\\jason\\IA para Jogos\\IA para Jogos.csproj",
+        "projectPath": "C:\\Users\\jason\\IA para Jogos\\IA-para-Jogos-Grafo-de-Dependencia\\Grafo-de-Dependencias\\IA para Jogos.csproj",
         "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jason\\IA para Jogos\\obj\\",
+        "outputPath": "C:\\Users\\jason\\IA para Jogos\\IA-para-Jogos-Grafo-de-Dependencia\\Grafo-de-Dependencias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config"

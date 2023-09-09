@@ -10,11 +10,12 @@ using System;
 
         private List<int> verticesVisitados = new List<int>();
 
-        
+        private List<string> dicionario = new List<string>();
 
 
         public void rodarGrafo() {
             grafo = new Grafo(10);
+            this.criaDicionario();            
             this.criarGrafo();
             this.ordenacaoTopologica();
             List<int> ordemCorreta = new List<int>();
@@ -25,9 +26,22 @@ using System;
             
             Console.WriteLine("Ordem:");
             foreach(int i in ordemCorreta){
-                Console.Write(i + ", ");
+                Console.WriteLine(i + ": " + dicionario[i]);
             }
 
+        }
+
+        public void criaDicionario(){
+          dicionario.Add("Restaurar resina");
+          dicionario.Add("Gastar resina");
+          dicionario.Add("Lutar contra Boss");
+          dicionario.Add("Ascender personagem");
+          dicionario.Add("Coletar itens no mapa");
+          dicionario.Add("Coletar gemas de elemento");
+          dicionario.Add("Subir nível de talento");
+          dicionario.Add("Coletar material de talento");
+          dicionario.Add("Enfrentar domínio");  
+          dicionario.Add("Coletar artefato de Boss");
         }
 
         public void criarGrafo() {
