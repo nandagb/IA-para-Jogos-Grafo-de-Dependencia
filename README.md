@@ -4,7 +4,7 @@ Atividade da disciplina de IA para Jogos
 Programa feito na linguagem C#
 
 # Grafo
-
+![Alt text](grafo.PNG)
 # Legenda para o grafo:
 
 0 - Restaurar resina
